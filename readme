@@ -1,1 +1,25 @@
-This is placehodler
+Updated scripts in fcpatcher to support newer firmware.
+
+Aircraft	FC_Patcher_Version	Latest Version	Differnet?
+Spark	1.00.0900 	1.00.1000	Yes
+Mavic Pro	1.04.0300	1.04.0500	Yes
+Phantom 4 Pro	1.05.0600	1.05.0600	No
+Phantom 4 standard	2.00.0700	2.00.0810	Yes
+Phantom 4 advanced	1.00.0128	1.00.0128	No
+Inspire 2	1.02.0200	1.02.0300	Yes
+Phantom 4 Pro/Pro+ V2	1.00.1500	1.00.22.00	Yes
+
+The ones which are different will be updated, Spark, Mavic PRo, Inspire 2, P4Prov2; at this time no file download available for P4 Standard fw.
+
+To use this, you need to download the files from fcpatcher and the firmware tools
+
+FC Patcher: https://github.com/o-gs/DJI_FC_Patcher/archive/master.zip
+
+Firwmare Tools:https://github.com/o-gs/dji-firmware-tools/archive/master.zip
+
+Unzip the files into same folder. Download the files in this repo, put in that folder and follow regular FC patcher steps.
+
+
+
+
+
